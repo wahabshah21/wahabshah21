@@ -2,7 +2,11 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Abdul Wahab Shah!
  -------------------------------------------------------------------------------------------------------------------------------------
- 
+
+![Twitter Follow](https://img.shields.io/twitter/follow/wahabshah23?style=social)
+
+Check my <a href="https://stackoverflow.com/users/5996276/wahab-shah">Stackoverflow </a>
+
  ### WORK IN PROGRESS - Check Back Later!
 <!--
 ![twitter.com/wahabshah23](https://img.shields.io/twitter/follow/wahabshah23?style=social)

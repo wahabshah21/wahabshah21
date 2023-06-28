@@ -43,3 +43,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahabshah21&show_icons=true&locale=en&layout=compact" alt="wahabshah21" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahabshah21&show_icons=true&locale=en" alt="wahabshah21" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahabshah21&" alt="wahabshah21" /></p>

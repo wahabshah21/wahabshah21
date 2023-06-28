@@ -11,7 +11,7 @@
 </a>
 
 
- ### WORK IN PROGRESS - Check Back Later!
+ ### THE PROFILE WORK IS STILL IN PROGRESS - Check Back Later!
 <!--
 ![twitter.com/wahabshah23](https://img.shields.io/twitter/follow/wahabshah23?style=social)
 

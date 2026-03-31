@@ -1,8 +1,7 @@
 
-
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Abdul Wahab Shah!
 ## Codename: AWS
-### Motto: With each pixel of design & every line of code I strive to make Web a pretty place
+### Motto: With each pixel of design & every line of code I strive to make Web a pretty place!
  -------------------------------------------------------------------------------------------------------------------------------------
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/wahabshah23?style=social)
